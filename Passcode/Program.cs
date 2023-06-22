@@ -17,6 +17,8 @@ namespace Passcode
                 Console.WriteLine("Your password : ");
                 password = Console.ReadLine();
 
+                //On Branch1 create at least 1 commit and push those changes 
+
                 if (password != "secret")
 
                     Console.WriteLine("Wrong password");
