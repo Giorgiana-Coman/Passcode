@@ -19,6 +19,8 @@ namespace Passcode
 
                 //On Branch1 create at least 1 commit and push those changes 
 
+                //change 2
+
                 if (password != "secret")
 
                     Console.WriteLine("Wrong password");
